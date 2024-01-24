@@ -1,0 +1,1 @@
+# Calculate income tax for the given income
